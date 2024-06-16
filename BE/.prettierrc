@@ -1,0 +1,9 @@
+{
+  "prettier/prettier": [
+    "error",
+    {
+      "endOfLine": "lf"
+    },
+    { "usePrettierrc": true }
+  ]
+}

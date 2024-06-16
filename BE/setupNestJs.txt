@@ -1,0 +1,14 @@
+nest g resource name
+nest g controller name
+nest g service name
+nest g module name
+
+
+// untuk persiapan jwt di NestJs
+yang perlu di install 
+
+@nestjs/jwt @nestjs/passport passport passport-jwt passport-local
+
+// yang -D
+
+-D @types/passport-jwt @types/passport-local
